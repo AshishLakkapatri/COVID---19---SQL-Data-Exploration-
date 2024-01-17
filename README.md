@@ -37,5 +37,3 @@ This project is part of a YouTube tutorial series led by [Alex the Analyst](http
 
 For a more in-depth understanding of the project and SQL skills, refer to the tutorial series on Alex the Analyst's [YouTube channel](https://www.youtube.com/@AlexTheAnalyst).
 
-*Note: The project assumes the existence of specific tables (CovidDeaths, CovidVaccinations, etc.) in the PortfolioProject database.*
-
